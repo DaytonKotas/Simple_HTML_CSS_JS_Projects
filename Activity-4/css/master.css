@@ -1,0 +1,35 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    color: black;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    background-color: grey;
+}
+
+img {
+    height: 100px;
+    text-align: left;
+}
+
+figcaption span {
+    font-size: .85em;
+}
+
+p#product-description {
+    margin:  20px 0 20px 0;
+    text-align: justify;
+}
+
+div.Review {
+    padding:  10px;
+    background-color: grey;
+    margin: 20px 0 20px 0;
+}
+
+footer {
+    font-size: .55em;
+    text-align: center;
+}
