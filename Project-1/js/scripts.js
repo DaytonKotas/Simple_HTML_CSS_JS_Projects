@@ -7,7 +7,7 @@ WebInfoEl.textContent = greeting;
 
 var numOfRanks = 5;
 var quantity = 'Number of rankings';
-var rank = quantity + 'todays is ' + numOfRanks;
+var rank = quantity + ' todays is ' + numOfRanks;
 var rankingsEl = document.getElementById('Rankings');
 
 rankingsEl.textContent = rank;
