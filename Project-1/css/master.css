@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(30, 30, 30);
+    font-family: "Open Sans", sans-serif;
+    color: white;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    background-color: black;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
+
+img {
+    height: 250px;
+    text-align: center;
+}
+
+img.NBA {
+    text-align: center;
+}
+
+figcaption span {
+    font-size: .85em;
+}
+
+div.Players {
+    padding:  10px;
+    background-color: black;
+    margin: 20px 0 20px 0;
+    font-size: 1.5em;
+}
+
+footer {
+    font-size: 1em;
+    text-align: center;
+}
