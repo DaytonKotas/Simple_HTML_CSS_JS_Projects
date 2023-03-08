@@ -56,11 +56,11 @@
         this.selector = data.selector;
 
         this.getFormattedDownloads = function () {
-            return this.downloads.toLocalString();
+            return this.downloads.toLocaleString();
         };
 
         this.getFormattedStars = function () {
-            return this.stars.toLocalString();
+            return this.stars.toLocaleString();
         };
     }
 
